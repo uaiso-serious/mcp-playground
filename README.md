@@ -49,3 +49,7 @@ curl --location 'http://localhost:8080/mcp' \
     "method": "tools/list" 
 }'
 ```
+
+kubernetes lab to integrate n8n with ollama and mcp tools:
+
+https://github.com/k3s-ia-lab/infra/
